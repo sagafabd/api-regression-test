@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Get Securities - Positive Case Get all data securities and success response 1`] = `
+Object {
+  "data": Object {
+    "events": Array [
+      Object {
+        "_id": "61f864e643e1310fdcef2162",
+        "date": "1572376571788",
+        "description": "this works",
+        "price": 2.9,
+        "title": "F Test",
+      },
+      Object {
+        "_id": "61f865fb93fdc7f8b9a76b0d",
+        "date": "1572376571788",
+        "description": "this works",
+        "price": 2.9,
+        "title": "F Test",
+      },
+      Object {
+        "_id": "61f866ffa6923e9c769375cb",
+        "date": "1572376571788",
+        "description": "this works",
+        "price": 2.9,
+        "title": "F Test",
+      },
+      Object {
+        "_id": "61f8674135881e7ef4ea3edd",
+        "date": "1572376571788",
+        "description": "this works",
+        "price": 2.9,
+        "title": "G Test",
+      },
+      Object {
+        "_id": "61f8677cab5dbe20cc21aa47",
+        "date": "1572376571788",
+        "description": "this works",
+        "price": 2.9,
+        "title": "H Test",
+      },
+      Object {
+        "_id": "61f87181ab5dbe20cc21aa4c",
+        "date": "1288379771788",
+        "description": "is works",
+        "price": 0.9,
+        "title": "D Test",
+      },
+      Object {
+        "_id": "61f87192ab5dbe20cc21aa51",
+        "date": "1288379771788",
+        "description": "is works",
+        "price": 0.9,
+        "title": "D Test",
+      },
+    ],
+  },
+}
+`;
