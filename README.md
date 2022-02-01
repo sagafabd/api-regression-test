@@ -17,6 +17,7 @@ Project 1 - "api-regression-test"
 - update package.json -> "script" :{ "test" : "jest"}
 - create file graphQL.js, jest.setup.js, jest.config.js, babel.config.js, .env, .eslintr.js, securities-base-file.js, securities-secondary.file.js
 - create folder __tests__, endpoints workspace, query, testcase
+
 ![Foldering-AT API](https://user-images.githubusercontent.com/61061592/151890418-24b0def6-18d6-490c-8000-afbabe0caf16.png)
 
 Running CSV 
