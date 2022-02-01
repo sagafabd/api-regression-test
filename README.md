@@ -6,19 +6,11 @@ Tool Stack :
 - DevOps : Jest, Git, Github, Jenkins
 
 Step To Reproduce :
-- Create 2 project in VSCode
+- Create 1 project in VSCode
 - Create Folder Name by project "api-regression-test" and "running-api-graphQL"
 - Open Visual Studio Code in two project
 
-Project 1 - "running-api-graphQL" -> ....
-- Open terminal (ctrl+`)
-- install (npm init -y) npm init -> package.json
-- install (npm i ...[npm dependencies] --save-dev) depedency -> expresss, express-graphql, graphql, mongoose, nodemon, body-parser
-- create file app.js, jest.setup.js, jest.config.js, babel.config.js
-- create folder __test__, workspace, query, testcase, model 
-- running nodemon
-
-Project 2 - "api-regression-test" -> .....
+Project 1 - "api-regression-test" 
 - Open terminal (ctrl+`)
 - install (npm init -y) npm init -> package.json
 - install (npm i ...[npm dependencies] --save-dev) depedency -> fs, jest, jest-json-schema, jest-to-graphql-query, jwt-decode, react, @babel/core, @babel/preset-env, @babel/preset-react, babel-eslint, babel-jest, dotenv, eslint, supertest, shell, write-json-file 
